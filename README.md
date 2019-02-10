@@ -19,6 +19,7 @@ be dragged by a mouse click and on release, the ball will spring back into the o
 * [Node.js](https://nodejs.org/) - To manage JavaScript packages and run a local development server.
 * [Parcel.js](https://parceljs.org/) - To bundle the code together into a package.
 * [Popmotion](https://popmotion.io/) - Animation library.
+* [Hyper](https://hyper.is/) - Terminal emulator.
 
 ### Authors
 
